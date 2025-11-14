@@ -1,7 +1,8 @@
 body{
-background-color: rgba(116, 161, 238, 0.847);
+
 }
 
 .cabeçalho{
     margin-bottom: 10px;
+    background-color: rgba(116, 161, 238, 0.847);
 }
